@@ -1,0 +1,1563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package name="для дедов от дедов" version="4" id="4e066a0a-8fec-4925-962f-f8290f8eb0c9"
+    date="28.07.2023" difficulty="5" logo="@дед2.png"
+    xmlns="http://vladimirkhil.com/ygpackage3.0.xsd">
+    <info>
+        <authors>
+            <author>свин</author>
+        </authors>
+    </info>
+    
+    <rounds>
+        <round name="1-й раунд">
+            <themes>
+                <theme name="8 бит">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@1.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">
+                                    @Woman-Yelling-at-a-Cat-Мемы-Ghostbusters-песочница-6254948.jpeg</atom>
+                            </scenario>
+                            <right>
+                                <answer>гостбастерс</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@2.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@i.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>покемон</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@3.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">
+                                    @9cb2fda7-6166-4b35-af70-3e310e2ddab2-1668479329557.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>скетман</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@4.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Без названия.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>эффель 65 айм блу</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@5.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@eminem-rapgod (1)-min.gif</atom>
+                            </scenario>
+                            <right>
+                                <answer>еминем реп год</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@6.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@шедевр.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>радиоактив воображаемые драконы</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@7.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Без названия (1).jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>дуалити слипкнот</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="voice">@8.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@X0OlTkF-PwI.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>ДЕЕСПАСИТО</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Спешл своими губами">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@1_3.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@1 ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Медуза матранг</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@2_3.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@2 ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>драконы беливер</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@3_3.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@3 ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Кипелов(Ария) Я свободен </answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="voice">@4_3.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@4 ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>мияги фриман</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@5_4.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@5 ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Big Shaq – Mans Not Hot СКИИЯЯ</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@6_3.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="video">
+                                    @singing-in-public-vitas-7th-element-memes-in-public-online-video-cutter_WuUi5LxN.mp4</atom>
+                            </scenario>
+                            <right>
+                                <answer>7й элемент витас</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@7_3.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@7 ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>lil nas x Old Town Road</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@8_2.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Максим отпускаю, песню включать не буду, сами напоёте</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@9.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@9 ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>не обрежем. хлеб\крем сода плачу на техно</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Нейросеточка киберпунк(люди)">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@kandinsky-download-1690527631620.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@c70957d24fc04d7bf793f1320f06020e.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Сталин</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@kandinsky-download-1690527662137.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@161cabe66be6865b40997a3625039094.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ленин</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@kandinsky-download-1690527838632.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@images.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Елизавета 2</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@kandinsky-download-1690528636595.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@hnywi6cweqb31.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Битлз</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@kandinsky-download-1690527776359.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@image.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ганди</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@kandinsky-download-1690528382428.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@picture-48033.jpeg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Брюс ли</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@kandinsky-download-1690528357852.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Мухаммед-Али-песочница-1696580.jpeg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мухаммед Али</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="image">@kandinsky-download-1690527721638.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Фидель Кастро</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Шлакоблокунь">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@9bbc61668549f30477279b409f0225c12.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@9bbc61668549f30477279b409f0225c2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>коровка передач</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@3ceaa89f6ecc1e4f4fee30473389e3eb1.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@3ceaa89f6ecc1e4f4fee30473389e3eb.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>бухтар</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@9ef0157fce00dd4d6efb49641aec0a3c1.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@9ef0157fce00dd4d6efb49641aec0a3c.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>укулелещ</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@73dbf7acc5a46bbe66655180ddb210615.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@73dbf7acc5a46bbe66655180ddb21065.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>мармиладзе</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@91b6dcba959e02f312a2acc4cccf67621.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@91b6dcba959e02f312a2acc4cccf6762.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>петуз</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@409d16f11bf034449db24aa27ca1c781c.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@409d16f11bf034449db24aa27ca1c78c.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>иисустрица</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@23988c0cf6c06d08efd43d7fea2be3b12.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@23988c0cf6c06d08efd43d7fea2be3b2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>чебурёнка</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@a9e1c0f27e469499580e73b12f7081b13.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@a9e1c0f27e469499580e73b12f7081b3.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>дошираптор</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Минималистичные постеры">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">
+                                    @1681310143_papik-pro-p-minimalistichnie-plakati-116.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">
+                                    @1681310143_papik-pro-p-minimalistichnie-plakati-16.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мулан</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">
+                                    @1681310148_papik-pro-p-minimalistichnie-plakati-311.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">
+                                    @1681310148_papik-pro-p-minimalistichnie-plakati-31.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Кинг Конг</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">
+                                    @1681310146_papik-pro-p-minimalistichnie-plakati-214.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">
+                                    @1681310146_papik-pro-p-minimalistichnie-plakati-24.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Матрица</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">
+                                    @1681310145_papik-pro-p-minimalistichnie-plakati-221.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">
+                                    @1681310145_papik-pro-p-minimalistichnie-plakati-22.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Крестный отец</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@13176521451.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@1317652145.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Цельнометаллическая оболочка</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@13176515501.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@1317651550.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Заводной Апельсин</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">
+                                    @1681310136_papik-pro-p-minimalistichnie-plakati-21.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">
+                                    @1681310136_papik-pro-p-minimalistichnie-plakati-2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Волк с уолл стрит</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="image">
+                                    @1681310144_papik-pro-p-minimalistichnie-plakati-210.png</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">
+                                    @1681310144_papik-pro-p-minimalistichnie-plakati-20.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Чужой</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="image">@52-minimalisticheskih-postera-k-filmam_371.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@52-minimalisticheskih-postera-k-filmam_37.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Криминальное чтиво</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="фильм\мульт по описанию">
+                    <questions>
+                        <question price="2">
+                            <scenario>
+                                <atom>Правительство, превратившее место жительства мужчины в лагерь
+                                    для беженцев, принуждает его участвовать в спасении заложника</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">
+                                    @1648270017_2-kartinkof-club-p-mem-s-shrekom-2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>шрек</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom>Молодая девушка выходит замуж за фут-фетишиста, чтобы избежать
+                                    жестокого обращения в своей семье</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Без названия_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Золушка</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom>Ковбой и его собака помогли двум подросткам взорвать рабочий
+                                    офис их отца-астматика</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@phpxSc0kl.jpeg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Звездные войны</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom>Подросток находит себе черного друга, но его отец не одобряет
+                                    эти отношения</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@sqk858y42f4.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Как приручить дракона</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom>Маленький парень работает сверхурочно и даже ворует части тела
+                                    своих мертвых коллег, прежде чем бросить работу и отправиться в
+                                    круиз со своей подругой</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">
+                                    @Nordic-Gamer-Мемы--Приколы-для-даунов-7432825.jpeg</atom>
+                            </scenario>
+                            <right>
+                                <answer>валли</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom>Все пробуют Ice Bucket Challenge</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@1613311902134095881.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>титаник</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom>Застенчивый француз пьёт молоко и ухаживает за комнатным
+                                    растением</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Screenshot_1_1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Леон</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom>Мужчины теряют голову из-за парня в юбке</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">
+                                    @couldbeworse-comic-Комиксы-храброе-сердце-1379692.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Храброе сердце</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+            </themes>
+        </round>
+        <round name="2-й раунд">
+            <themes>
+                <theme name="Для рыцарей">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@1_1.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@fvtf8b-ueaah3bt-1-768x512.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>аква барби герл</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@2_1.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Без названия_1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>абба гими гими гими</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@3_1.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="video">@waka waka.mp4 (Messi GOAT) (360p).mp4</atom>
+                            </scenario>
+                            <right>
+                                <answer>шакира вака вака (This Time for Africa)</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@4_1.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@3080933.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>creep radiohead</answer>
+                            </right>
+                        </question>
+                        <question price="4">
+                            <scenario>
+                                <atom type="voice">@5_1.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Screenshot_9.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>lp in the end</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@6_1.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Screenshot_1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>pimp 50 kopeek</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@8_1.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Screenshot_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>mj smooth criminal</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@7_1.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@artworks-AslyIcVXynqCyaA4-x3j8JQ-t500x500.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>san andreas theme</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Песня от гугл женщины">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@1_4.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Киркоров - Цвет настроения Синий</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@2_4.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Монеточка - каждый раз</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@3_4.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>HOMIE - безумно можно быть первым</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@4_4.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Артур Пирожков - Алкоголичка</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@5_5.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Инстасамка - за деньги да</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@6_4.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Кино-полина гагарина Кукушка</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="voice">@7_4.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Стигмата Сентябрь</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Больше шлакоблокуня">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@b9d08e1dc2454efdac37b47e8ee415511.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@b9d08e1dc2454efdac37b47e8ee41551.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Верблюдок</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@cacb75cf5c1bf5d7384d0aee06427f136.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@cacb75cf5c1bf5d7384d0aee06427f36.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Орган Фримен</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@nX-1Y-O-8Oc1.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@nX-1Y-O-8Oc.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Клопята</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@-PyFPk6jO1jc.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@-PyFPk6jOjc.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Быдлошадь</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="image">@qd6jZTnRKmE1.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@qd6jZTnRKmE.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Зарплатон</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@rybOXeK6tj81.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@rybOXeK6tj8.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Волоси</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@ze4Bt-7lue1E.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@ze4Bt-7lueE.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Капибарби</answer>
+                            </right>
+                        </question>
+                        <question price="5">
+                            <scenario>
+                                <atom type="image">@33bda4eff04d68a8bfb2d17e0461e91f1.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@33bda4eff04d68a8bfb2d17e0461e91f.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Блюд</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Минималистичные постеры игр">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@1317656329.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>duke nuken</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@1317656353.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>God of war</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@1317656634.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>L4D</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@1317656684.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Mass effect</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@1317656761.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Prince of persia</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@1317734251.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>gta vc</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@Meat_Boy_Mini.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>super meat boy</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@Sonic_Minimalistic.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>sanic</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="детские фото">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@выживший.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@выживший2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Лео ди</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@красотка.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@красотка2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Юля Робердс</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@айвонттубрейкфри.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@айвонттубрейкфри2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Федя Меркурий</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@жоля.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@жоля2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Анжела Джоли</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@бред.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@бред2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Брэд Питт</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@монр.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@монр2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мерлин Монро</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@дон.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@дон2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мадонна</answer>
+                            </right>
+                        </question>
+                        <question price="5">
+                            <scenario>
+                                <atom type="image">@жига.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@жига2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Джиган</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="image">@бек.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@бек2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Бэкхем</answer>
+                            </right>
+                        </question>
+                        <question price="10">
+                            <scenario>
+                                <atom type="image">@покемон.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@покемон2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Траволтыч</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="импортозамещение">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@соад.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="video">@soad.mp4</atom>
+                            </scenario>
+                            <right>
+                                <answer>SOAD</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@кв.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>QUEEN</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@дп.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>DEEP PURPLE</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@у2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>U2</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@бэкстритбойс.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>BBOYS</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@рхчп.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>RHCP</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="image">@асдс.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>ACDC</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="image">@блюр.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>BLUR</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+            </themes>
+        </round>
+        <round name="3-й раунд">
+            <themes>
+                <theme name="Реверс песни">
+                    <questions>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@1_2.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@гив ми ё мани ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>гив ми ё мани литл биг</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@2_2.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@втюрилась ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>дора втюрилась</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@3_2.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@день рожденья твой чай вдвоем ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>чай вдвоем день рождения</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@4_2.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@Танцуй под Бузову ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>бузова дай бог ей здоровья</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="voice">@5_2.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@он не знает ничего ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>краски а он не знает ничего</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="voice">@6_2.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@лирика ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>сектор газа лирика</answer>
+                            </right>
+                        </question>
+                        <question price="4">
+                            <scenario>
+                                <atom type="voice">@7_2.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@варвара ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>би2 варвара</answer>
+                            </right>
+                        </question>
+                        <question price="5">
+                            <scenario>
+                                <atom type="voice">@5_3.mp3</atom>
+                                <atom type="marker"></atom>
+                                <atom type="voice">@угонщица ответ.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Аллегрова Угонщица</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Магаданский Пикассо">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@Властелин Конец братство кольца Image.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Властелин Конец братство кольца Оригинал.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Властелин колец</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@Форсаж 7 Image.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Форсаж 7 Оригинал.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Форсаж 7(важно часть)</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@Бойцовский клуб image.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Бойцовский клуб оригинал.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Бойцовский клуб</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@Криминальное чтиво Image.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Криминальное чтиво оригинал.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Криминальное чтиво</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="image">@форест гамп image.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@форест гамп оригинал.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Форест гамп</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@достучаться до небес Image.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@достучаться до небес оригинал.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Достучаться до небес</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="image">@Убойный футбол Image.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Убойный футбол оригинал.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Убойный футбол</answer>
+                            </right>
+                        </question>
+                        <question price="5">
+                            <scenario>
+                                <atom type="image">@побег из шоушенка Image.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@Побег из шоушенка Оригинал.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Побег из шоушенка</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Ебанем по флагам">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@уруг.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Уругвай</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@чешская респуб.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Чехия</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@тайвань.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Тайвань</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@куба.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Куба</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@чили.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Чили</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@словакия.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Словакия</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@сербия.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Сербия</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@перу.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Перу</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@пакистан.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Пакистан</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@нидерланды.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Нидерланды</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@латвия.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Латвия</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@колум.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Колумбия</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Компутерные игры для дедов">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@stronghold.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">@a59b6c62657f4d80250fe3405cc17972.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>stronghold</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@BK.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Бойцовский клуб</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@сп.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Санитары подземелий</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@e29c40e0f5b5403d8f6f0b6b7e8dbdd3.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Grim Fandango</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="image">@Allodi_3_Proklyatie_zemli_1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Проклятые земли</answer>
+                            </right>
+                        </question>
+                        <question price="4">
+                            <scenario>
+                                <atom type="image">@631d9c3ecd2a45129d54233823575369.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Rune</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@never.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Neverhood</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@exmash.jpeg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ex machina</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="image">@кдр1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Код доступа рай</answer>
+                            </right>
+                        </question>
+                        <question price="4">
+                            <scenario>
+                                <atom type="image">@механ.jpeg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Механойды</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Деды рассказывали(угадай предмет)">
+                    <questions>
+                        <question price="3">
+                            <scenario>
+                                <atom type="image">@фрик.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Прибор для изготовления фрикаделек</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@Щи.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Щипцы для стирки</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@Screenshot_1_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Шагометр</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@Screenshot_2_1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Микрофон</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@Screenshot_3.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Эспандер</answer>
+                            </right>
+                        </question>
+                        <question price="5">
+                            <scenario>
+                                <atom type="image">@Screenshot_4.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Прибор для фигурной резки овощей</answer>
+                            </right>
+                        </question>
+                        <question price="3">
+                            <scenario>
+                                <atom type="image">@Screenshot_5.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Пистолет для лепки пельменей</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@Screenshot_6.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мышь</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="(Кибер)спортивные клубы">
+                    <questions>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@og.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Optic gaming</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@West_Ham_United_FC_logo_2015.svg.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Вест хэм</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@1024px-FC_Leicester_City_Logo.svg.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Лестер Сити</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@SK_2020.svg.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>SK gaming</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">
+                                    @kisspng-valencia-cf-la-liga-logo-dream-league-soccer-valencia-cf-logo-transparent-png-stickpng-5ba388978939d7.7999702315374439915621.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Валенсия</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@Boston_Celtics_(1997_-_Pres).gif</atom>
+                            </scenario>
+                            <right>
+                                <answer>Бостон сельтикс</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@1200px-Miami_Heat_logo.svg.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Майами хит</answer>
+                            </right>
+                        </question>
+                        <question price="2">
+                            <scenario>
+                                <atom type="image">@Без названия.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Immortals</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@RB_Leipzig_2014_logo.svg.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Лейпциг</answer>
+                            </right>
+                        </question>
+                        <question price="1">
+                            <scenario>
+                                <atom type="image">@Без названия (1).png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мемфис гризли</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+            </themes>
+        </round>
+        <round name="ФИНАЛ" type="final">
+            <themes>
+                <theme name="Мемокулярная физика">
+                    <questions>
+                        <question price="0">
+                            <scenario>
+                                <atom>Кто очкун?</atom>
+                            </scenario>
+                            <right>
+                                <answer>Все ответы правильные</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+            </themes>
+        </round>
+    </rounds>
+</package>

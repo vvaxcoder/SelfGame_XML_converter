@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<package name="" version="4" id=""
+    date="" difficulty="" logo=""
+    xmlns="http://vladimirkhil.com/ygpackage3.0.xsd">
+
+    <info>
+        <authors>
+            <author>
+
+            </author>
+        </authors>
+    </info>
+
+    <rounds>
+        <round name="">
+            <themes>
+                <question price="">
+                    <scenario>
+                        <atom type=""></atom>
+                        <atom type=""></atom>
+                        <atom type=""></atom>
+                    </scenario>
+
+                    <right>
+                        <answer></answer>
+                    </right>
+                </question>
+            </themes>
+        </round>
+    </rounds>
+</package>
