@@ -2,5 +2,55 @@ import os
 import xml.etree.ElementTree as ET
 import shutil
 
+base_path = os.path.dirname(os.path.realpath(__file__))
+
+dataDict = {}
+
 # create xml file from template and copy it into current directory
-shutil.copy("template_old.xml", "content.xml")
+new_xml_file = os.path.join("parsed", "content.xml")
+# shutil.copy("template_old.xml", "parsed/content.xml")
+shutil.copy("template_old.xml", new_xml_file)
+
+xml_file1 = os.path.join(base_path, "content_new.xml")
+print("base_path = ", base_path)
+print("xml_file1 = ", xml_file1)
+
+ET.register_namespace("", "https://github.com/VladimirKhil/SI/blob/master/assets/siq_5.xsd")
+
+# read content_new.xml
+tree1 = ET.parse(xml_file1)
+
+root1 = tree1.getroot()
+# print("root1 = ", root1.attrib)
+
+# find info tag
+for child in root1.find(".//{https://github.com/VladimirKhil/SI/blob/master/assets/siq_5.xsd}info"):
+    # print(child.tag)
+
+    if child.tag == "{https://github.com/VladimirKhil/SI/blob/master/assets/siq_5.xsd}authors":
+        # print(child[0].text)
+        dataDict["author"] = child[0].text
+
+ET.register_namespace("", "http://vladimirkhil.com/ygpackage3.0.xsd")
+
+# read content.xml
+tree2 = ET.parse(new_xml_file)
+
+root2 = tree2.getroot()
+# print("root2 = ", root2.attrib)
+
+# fill content.xml root tag
+root2.attrib['name'] = root1.attrib['name']
+root2.attrib['id'] = root1.attrib['id']
+root2.attrib['date'] = root1.attrib['date']
+root2.attrib['difficulty'] = root1.attrib['difficulty']
+root2.attrib['logo'] = root1.attrib['logo']
+
+for child in root2.find(".//{http://vladimirkhil.com/ygpackage3.0.xsd}info"):
+    print(child.tag)
+
+    if child.tag == "{http://vladimirkhil.com/ygpackage3.0.xsd}authors":
+        # print(child[0].text)
+        child[0].text = dataDict["author"]
+
+tree2.write(new_xml_file)
