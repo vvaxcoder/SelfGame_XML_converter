@@ -53,4 +53,35 @@ for child in root2.find(".//{http://vladimirkhil.com/ygpackage3.0.xsd}info"):
         # print(child[0].text)
         child[0].text = dataDict["author"]
 
+# count rounds
+# for child in root1:
+#     if child.tag == "{https://github.com/VladimirKhil/SI/blob/master/assets/siq_5.xsd}rounds":
+#         dataDict["round_count"] = len(child)
+#
+#         for rounds_child in child:
+#             print("rounds_child = ", rounds_child.tag)
+
+# count rounds
+rounds_count = root1.find("rounds", {'': "https://github.com/VladimirKhil/SI/blob/master/assets/siq_5.xsd"})
+print("rounds_count = ", len(rounds_count))
+dataDict["round_count"] = len(rounds_count)
+
+# for child in root1.find("rounds", {'': "https://github.com/VladimirKhil/SI/blob/master/assets/siq_5.xsd"}):
+#     print("child = ", child.tag)
+
+print("root2 = ", root2)
+rounds_from_parsed = root2.find("rounds", {"": "http://vladimirkhil.com/ygpackage3.0.xsd"})
+print("rounds_from_parsed = ", rounds_from_parsed)
+round_from_parsed = rounds_from_parsed.find("round", {"": "http://vladimirkhil.com/ygpackage3.0.xsd"})
+print("round_from_parsed = ", round_from_parsed)
+
+loop_counter = dataDict["round_count"] - 1
+print("loop_counter = ", loop_counter)
+
+for i in range(0, loop_counter):
+    rounds_from_parsed.append(round_from_parsed)
+
+print("rounds_from_parsed len = ", len(rounds_from_parsed))
+# root2.append(rounds_from_parsed)
+
 tree2.write(new_xml_file)
