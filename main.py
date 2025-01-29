@@ -47,41 +47,40 @@ root2.attrib['difficulty'] = root1.attrib['difficulty']
 root2.attrib['logo'] = root1.attrib['logo']
 
 for child in root2.find(".//{http://vladimirkhil.com/ygpackage3.0.xsd}info"):
-    print(child.tag)
 
     if child.tag == "{http://vladimirkhil.com/ygpackage3.0.xsd}authors":
-        # print(child[0].text)
         child[0].text = dataDict["author"]
 
 # count rounds
-# for child in root1:
-#     if child.tag == "{https://github.com/VladimirKhil/SI/blob/master/assets/siq_5.xsd}rounds":
-#         dataDict["round_count"] = len(child)
-#
-#         for rounds_child in child:
-#             print("rounds_child = ", rounds_child.tag)
-
-# count rounds
 rounds_count = root1.find("rounds", {'': "https://github.com/VladimirKhil/SI/blob/master/assets/siq_5.xsd"})
-print("rounds_count = ", len(rounds_count))
 dataDict["round_count"] = len(rounds_count)
 
-# for child in root1.find("rounds", {'': "https://github.com/VladimirKhil/SI/blob/master/assets/siq_5.xsd"}):
-#     print("child = ", child.tag)
-
-print("root2 = ", root2)
 rounds_from_parsed = root2.find("rounds", {"": "http://vladimirkhil.com/ygpackage3.0.xsd"})
-print("rounds_from_parsed = ", rounds_from_parsed)
 round_from_parsed = rounds_from_parsed.find("round", {"": "http://vladimirkhil.com/ygpackage3.0.xsd"})
-print("round_from_parsed = ", round_from_parsed)
 
 loop_counter = dataDict["round_count"] - 1
-print("loop_counter = ", loop_counter)
 
+# copy nodes in target file
 for i in range(0, loop_counter):
-    rounds_from_parsed.append(round_from_parsed)
+     rounds_from_parsed.append(round_from_parsed)
 
-print("rounds_from_parsed len = ", len(rounds_from_parsed))
-# root2.append(rounds_from_parsed)
+dataDict["rounds_name"] = []
 
-tree2.write(new_xml_file)
+# write data to dictionary
+for idx, child in enumerate(root1.find(".//{https://github.com/VladimirKhil/SI/blob/master/assets/siq_5.xsd}rounds")):
+    print("round = ", child.attrib)
+    dataDict["rounds_name"].append(child.attrib)
+
+# print(dataDict["rounds_name"])
+
+round_from_parsed_list = rounds_from_parsed.findall("round", {"": "http://vladimirkhil.com/ygpackage3.0.xsd"})
+# print("round_from_parsed_list = ", len(round_from_parsed_list))
+
+for idx, data_dict in enumerate(dataDict["rounds_name"]):
+    round_from_parsed_list[idx].attrib["name"] = data_dict["name"]
+    print("round_from_parsed_list[idx] = ", round_from_parsed_list[idx])
+
+# print(ET.dump(rounds_from_parsed))
+
+# write to new xml file
+tree2.write(new_xml_file, encoding="utf-16")

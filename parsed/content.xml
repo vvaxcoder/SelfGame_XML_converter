@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-16"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <package name="" version="4" id=""
     date="" difficulty="" logo=""
@@ -17,16 +17,16 @@
                 <theme name="">
                     <questions>
                         <question price="">
-                            <scenario>
-                                <atom type="voice"></atom>
-                                <atom type="marker"></atom>
-                                <atom type="image"></atom>
-                            </scenario>
+                    <scenario>
+                        <atom type=""></atom>
+                        <atom type=""></atom>
+                        <atom type=""></atom>
+                    </scenario>
 
-                            <right>
-                                <answer></answer>
-                            </right>
-                        </question>
+                    <right>
+                        <answer></answer>
+                    </right>
+                </question>
                     </questions>
                 </theme>
             </themes>
